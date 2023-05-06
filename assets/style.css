@@ -1,0 +1,27 @@
+@import url("https://fonts.googleapis.com/css2?family=Quicksand&display=swap");
+
+* {
+  font-family: "Quicksand", sans-serif;
+}
+
+/* top content */
+#main {
+  background-image: url(./images/Cloud\ Formation\ in\ the\ South\ Indian\ Ocean.jpeg);
+  background-size: cover;
+}
+
+#content {
+  padding-top: 10rem;
+}
+
+#paratext {
+  padding-bottom: 10rem;
+}
+
+/* top content end */
+
+#absolute {
+  position: absolute;
+  top: 60%;
+  left: 30%;
+}
